@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Kabarett Decor DEMO Thin';
+	src: url('../fonts/kabarett_decor_demo_thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/kabarett_decor_demo_thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/kabarett_decor_demo_thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/kabarett_decor_demo_thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/kabarett_decor_demo_thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/kabarett_decor_demo_thin.svg#kabarett_decor_demo_thin') format('svg'); /* Chrome < 4, Legacy iOS */
+}
